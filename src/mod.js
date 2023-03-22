@@ -24,7 +24,7 @@ export function gamePixPlugin() {
 	/** @type {import("$adlad").AdLadPlugin} */
 	const plugin = {
 		name: "gamepix",
-		async initialize(ctx) {
+		async initialize() {
 			/** @type {() => void} */
 			let resolveInitialize;
 

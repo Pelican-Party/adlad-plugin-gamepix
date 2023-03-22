@@ -1,10 +1,3 @@
-interface Window {
-	GD_OPTIONS?: {
-		gameId: string;
-		onEvent(event: GdEvent);
-	};
-}
-
 interface GamePixAdResult {
 	success: boolean | undefined;
 }
