@@ -1,0 +1,21 @@
+{
+	"name": "@adlad/plugin-gamepix",
+	"version": "0.0.1",
+	"description": "AdLad plugin for the GamePix sdk.",
+	"main": "mod.js",
+	"types": "dist/adlad-plugin-gamepix.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Pelican-Party/adlad-plugin-gamepix.git"
+	},
+	"keywords": [
+		"ads",
+		"gamepix"
+	],
+	"author": "Pelican Party Studios",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Pelican-Party/adlad-plugin-gamepix/issues"
+	},
+	"homepage": "https://github.com/Pelican-Party/adlad-plugin-gamepix#readme"
+}
